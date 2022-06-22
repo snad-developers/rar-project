@@ -9,7 +9,7 @@
     </table>
 </div>
 </div>
-
+<h1>hiiiii</h1>
 <table id ="amd" align="center">
         <tr>
             <td> <nav> <route-link to="/activeemplydata"><button class='amd'> Active employee data </button> </route-link></nav></td>
